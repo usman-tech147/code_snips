@@ -1,0 +1,543 @@
+/*	Media 768Px Start */
+@media (min-width: 768px) and (max-width: 990px) {
+	.service-heading { font-size: 29px; }
+	.header-btn.header-btn2 { display: none; }
+	.dis-none { display: block !important; }
+	.motivz-header-one .col-md-3,.motivz-header-one .col-md-9 { width: 50%; }
+	.motivz-header-one { padding: 0px; }
+	.dis-block { display: none; }
+	.navbar-toggler { background: #fff; box-shadow: 0px 0px 10px rgba(0,0,0,0.2); }
+	.mymotivz-nav { float: right; padding: 4px 0px 0px; }
+	.navbar-collapse { position: absolute;right: 0px;top: 100%;z-index: 9;width: 250px;background: #fff;padding: 10px 20px;border-radius: 5px;box-shadow: 0px 0px 10px rgba(0,0,0,0.2); }
+	.mm-dropdown { display: none; opacity: 1; visibility: visible; position: relative; left: unset; top: unset; width: 100%; padding: 0px; background: transparent; box-shadow: none;}
+	.motivz-banner-text h1 { font-size: 33px; line-height: 44px; margin: 0px 0px 17px; }
+	.motivz-banner-text h1 br { display: none; }
+	.motivz-banner { height: auto; padding: 80px 0px 70px; }
+	.motivz-banner-text h1 span:before { display: none; }
+	.motivz-banner-text p { line-height: 24px; font-size: 16px; margin: 0px 0px 30px; }
+	.banner-form { padding: 15px 15px 0px; height: auto;}
+	.banner-form input[type="text"],.banner-form input[type="text"].scnd-input {border-right: none; width: 100%; border-bottom: 1px solid #ececec; }
+	.banner-form ul li { width: 100%; margin: 0px 0px 20px; }
+	.banner-form label { position: relative; top: 0px; }
+	.banner-form ul li > i { left: 0px; }
+	.banner-form input.scnd-input { padding-left: 30px; }
+	.banner-form input[type="submit"] { height: 50px; width: 100%; border-radius: 5px; padding: 0px;}
+	.banner-form label i { margin: 0 0 0 -70px; left: 50%; top: 15px; }
+	.description-title,.mm-description { width: 100%; padding: 0px; }
+	.description-title h2 { font-size: 28px; line-height: 36px; margin: 0px 0px 20px; }
+	.connect-text h2 { font-size: 29px; }
+	.mm-main-title p { width: 100%; font-size: 15px; }
+	.mm-main-title h2 { font-size: 24px; }
+	.connect-full { padding: 70px 0px 30px; }
+	.simple-btn { padding: 12px 45px; font-size: 16px; }
+	.mm-industries ul li { width: 50%; margin: 0px -4px 30px 0px; }
+	.mm-thriving { padding: 40px 15px 50px; width: 100%; }
+	.widget-links { padding-left: 0px !important; }
+	.motivz-footer-widget aside.col-md-3 { width: 50%; float: left; }
+	.widget-links ul li { font-size: 16px; line-height: 36px;}
+	.widget-info p { font-size: 17px; }
+	.footer-form form { padding-left: 0px; }
+	.footer-form form label { float: left; position: relative; }
+	.footer-form form input[type="text"] { padding-right: 15px; padding-left: 15px; margin: 0px 0px 10px;}
+	.footer-form h2 { margin: 0px 0px 13px; font-size: 27px; line-height: 1.3;}
+	.motivz-footer-one { padding: 60px 0px 30px; }
+	.mm-subheader { padding: 25px 0px; margin: 2px 0px 0px; }
+	.motivz-main-content { padding: 60px 0px 40px 0px;}
+	.mm-image-slide { width: 100%; }
+	.image-slide-full { display: none; }
+	.mm-approachfull { margin: 0px 0px 30px; }
+	.mm-core-value h2,.mm-approach h2 { margin: 0px 0px 17px; font-size: 30px; }
+	.about-text p { padding: 30px 0px 0px; font-size: 17px; line-height: 27px; }
+	.about-textfull { margin: 0px 0px 35px; }
+	.mm-approach ul li { font-size: 15px;padding-left: 35px; }
+	.mm-approach ul li:before { left: 0px; }
+	.caltoaction-text {padding: 68px 15px 70px; }
+	.caltoaction-text a { font-size: 16px; padding: 10px 24px; margin: 0px 10px 0px 0px;}
+	.mm-core-valuefull { margin: 0px 0px 20px; }
+	.mm-subheader h1 { line-height: 26px; font-size: 22px; }
+	.motivz-sticky .logo { padding: 3px 0px 0px; }
+	.motivz-sticky .mymotivz-nav { padding: 1px 0px 4px; }
+	.service-textfull { margin: 0px 0px 30px; }
+	.work-text h2 { font-size: 26px; line-height: 34px; margin: 0px 0px 20px;}
+	.mm-workfull { padding: 50px 0px 28px; }
+	.work-list { padding: 0px 171px 0px 0px; }
+	.work-list ul li { padding: 0px 0px 0px 57px; font-size: 19px; line-height: 25px; margin: 0px 0px 25px;}
+	.talent-list-form { width: 56%; }
+	.areas-expertise { width: 43%; }
+	.areas-expertise ul li { width: 100%; margin: 0px 0px 12px; font-size: 16px; padding: 0px 0px 0px 30px; line-height: 22px; }
+	.areas-expertise h2 { font-size: 28px; margin: 0px 0px 20px; }
+	.motivz-placement-text h2 { padding: 0px; margin: 0px 0px 30px; font-size: 26px; line-height: 30px;}
+	.motivz-placement-text h2:before { top: -11px; }
+	.motivz-liststyle { width: 44%;  padding: 28px 0px 0px 20px; }
+	.motivz-liststyle i { position: absolute; left: 0px; font-size: 23px; width: 40px; height: 40px; margin: 0px; line-height: 40px; }
+	.motivz-liststyle ul li { padding: 0px 0px 0px 55px; position: relative; line-height: 22px; font-size: 17px; }
+	.satisfaction-text h2 { font-size: 30px; margin: 0px 0px 30px; }
+	.satisfaction-text p { margin: 0px 0px 0px; }
+	.temporary-staffing-text h2 br { display: none; }
+	.temporary-staffing-text { width: 100%; padding: 0px; margin-top: 0px; }
+	.temporary-staffing-text h2 { font-size: 24px; line-height: 30px; }
+	.motivz-placement-text h3 { margin: 0px 0px 22px; font-size: 28px; }
+	.free-hiring-list ul li { padding: 0px 0px 0px 61px; }
+	.free-hiring-list h2 { font-size: 22px; }
+	.free-hiring-list p { font-size: 16px; }
+	.free-hiringfull { margin: 0px 0px 20px; }
+	.motivz-placement-text h3 { font-size: 24px; line-height: 32px; }
+	.grid-resources,.grid-resources-sidebar { width: 100%; }
+	.grid-resources-sidebar { padding-left: 0px; }
+	.pagination-wrap { margin: 0px 0px 30px; }
+	.sorting { margin: 10px 0px; }
+	.grid-resources-text section h2 { font-size: 20px; line-height: 24px; }
+	.createby li { font-size: 14px; }
+	.findjob-subheader h1 { font-size: 25px; line-height: 1.5; }
+	.findjob-subheader { padding: 25px 0px; margin: 57px 0px 0px;}
+	.motivz-list-option ul li { padding: 2px 9px; margin: 0px 0px 7px;}
+	.motivz-option-btn { margin-right: 4px; min-width: 95px; font-size: 12px; margin-bottom: 5px;}
+	.job-employer-dashboard-nav figcaption h2 { font-size: 18px; }
+	.password-change ul li { width: 50%; }
+	.job-search label input[type="submit"] { padding: 0 15px 0 50px; font-size: 16px; }
+	.job-search label i { left: 22px; }
+	.job-search ul li.details a { margin: 6px 0 0 -7px; padding: 0px; }
+	.job-search ul li.location i { padding: 6px 6px 0; }
+	.job-search { padding: 20px; margin: 0px 0px 30px; }
+	.featured-jobs ul li { padding: 0px 7px; }
+	.publish { top: 14px; }
+	.apply a.like > i { margin-right: 11px; }
+	.job-location li { margin: 0px 15px 0px 0px; font-size: 13px; }
+	.career-development { padding: 0px; }
+	.career-development h2 { margin: 0px 0px 23px; font-size: 24px; line-height: 30px; }
+	.career-development p { margin: 0px 0px 28px; font-size: 16px; }
+	.lazy-btn { padding: 10px 15px; font-size: 14px; margin: 0px 3px 0px 0px;}
+	.career-developmentfull { margin: 0px 0px 50px; }
+	.career-activelyfull { padding: 50px 0px 60px; }
+	.career-development form { width: 100%; }
+	.career-development-img.career-development-scnd { margin-bottom: 20px; }
+	.extra-space { height: 40px; }
+	.actively-looking.career-development h2 { font-size: 24px; }
+	.career-development-img.actively-looking-img { margin-top: 15px; }
+	.mm-motivz-jobdetail-content { padding: 15px; }
+	.contact-heading ul li { margin-bottom: 20px !important;}
+	.contact-grid-text { padding: 28px 0px 0px 80px; }
+	.contact-grid ul li.col-md-4 { flex: 0 0 50%; max-width: 50%; }
+	.motivz-contactfull { margin: 58px 0px 0px; }
+	.login-layout { width: 70%; }
+	.motivz-loginlayout { padding: 0px; }
+	.login-layout h1 { font-size: 24px; }
+	.login-layout img { width: 300px; }
+	.job-employer-dashboard-nav ul li a { font-size: 14px; padding: 16px 8px; }
+	.form-widget { padding: 25px 10px 20px; }
+	.form-widget input[type="text"] { padding-left: 10px; font-size: 13px; }
+	.form-widget input[type="text"]::placeholder { font-size: 13px; }
+	.job-fileUpload span { font-size: 11px; }
+	.connect-img:after,.connect-img:before,.service-img:before { display: none; }
+	.connect-img figcaption { width: 100%; }
+	.temporary-staffing-text ~ .talent-list-form { width: 100%; }
+	.motivz-jobdetail-listthumb ~ figcaption { margin-bottom: 20px; margin-left: 0px; padding-top: 20px; float: left; width: 100%; }
+	.foot-logo { width: 80%; }
+	.side-featured-jobs .featured-jobslist-text figure ~ section { padding: 0px; float: left; width: 100%; }
+	.mm-motivz-jobdetail-services ul li { flex: 0 0 50%; max-width: 50%; }
+	.contact-sidecontent { padding: 0px; }
+	.contact-sidecontent h3 { font-size: 30px; }
+	.hideli { display: none; }
+	.app-wrap a { display: inline-block; float: none; margin: 0px 0px 5px !important }
+	.motivz-details-tabs ul li small{ font-size: 15px; }
+	.motivz-details-tabs ul li:before { width: 60px; margin: -17px 0px 0px -30px; }
+	/*.navbar-toggler.collapsed ~ .collapse.navbar-collapse { display: block; }*/
+	.mm-motivz-jobdetail-content.details-tabswrapper { width: 100%; }
+	.userdshoard { float: right; margin: 3px 0px 0px;}
+	.motivz-header-one {display: none;}
+	.motivz-header-two {display: block !important;}
+	.header-btn { width: 100%; background: #4d9a10; color: #fff; text-align: center; }
+	.mymotivz-nav > .navbar { padding: 12px; }
+	.navbar-nav > li { margin: 0px; }
+	.mm-motivz-jobdetail-content .like-wrap {margin: -5px 140px 0px 0px}
+	.motivz-content-wrap { padding-top: 0px; }
+	.description-full { padding: 60px 0px 30px; }
+	.motivz-footer-widget aside.col-md-4 { flex: 0 0 50%; max-width: 50%; }
+	.satisfaction-textfull { padding: 50px 0px; }
+	.navbar-nav .dropdown-menu { margin: 0px 0px 10px; }
+	.employers-banner .motivz-banner-text h1 {font-size: 52px; line-height: 60px; margin: 0 0 20px;}
+	.motivz-banner-text h2 {font-size: 28px; line-height: 1.2; margin: 0px 0px 20px;}
+	.motivz-banner-text .simple-btn { font-size: 20px; padding: 14px 35px;}
+	.motivz-banner.employers-banner { background-size: 400px; padding: 20px 0px;}
+	.motivz-pricing-content section { width: 55%; }
+	.motivz-pricing-content h3 { font-size: 26px; }
+	.call-to-actions h4 { font-size: 30px; margin: 0px 0px 25px; }
+	.motivz-pricing-contentfull:before { display: none; }
+	.motivz-pricing-content section.price-section1:before { top: 70px; }
+	.pricing-list li {font-size: 14px;line-height: 22px;padding: 0px 0px 0px 20px;}
+	.price-plan-text { padding-right: 15px; width: 100%; }
+	.price-plan-text:before { right: 0px; }
+	.price-plan-text h3 { font-size: 23px; }
+	.price-plan-text h4 {font-size: 30px;}
+	.pricing-title h4 { font-size: 24px; }
+	.pricing-title h2 { font-size: 32px; }
+	.about-text.pricing-about h2 {font-size: 21px;margin: 0 0 10px;}
+	.about-text.pricing-about p {font-size: 15px;margin: 0 0 15px;line-height: 24px;}
+	.pricing-aboutfull { margin: 0px 0px 60px; }
+	.pricing-table-full { margin: 0px 0px 40px; }
+	.call-to-action p { font-size: 22px; width: 90%; }
+	.notsure-section-full {padding: 60px 0px 10px;}
+	.notsure-section-full .about-text.pricing-about { margin: 0px; }
+	.package-name h6 {
+    font-size: 24px;
+}
+	.package-name h3 {
+    font-size: 14px;
+    margin: 0px 0px 15px;
+}
+	.package-name label {display: inline-block;}
+	.purchase-summary section label span { width: 50%; text-align: right; }
+	.package-name label input { margin: 5px 0px 0px; }
+	.purchase-summary section { padding: 10px; }
+	.purchase-summary button[type="submit"] { padding: 0px; }
+	.jobs-details { width: 100%; }
+
+
+
+}
+
+/* Media 420Px Start */
+@media (max-width: 767px) {
+	.jobs-details section table { width: 1000px; max-width: 1000px; }
+	.jobs-details section { overflow: auto; }
+	.jobs-details { width: 100%; }
+	.purchase-summary button[type="submit"] {padding: 0px;}
+	.payment-information form.billing ul li,.payment-informationfull .login-layout { width: 100%; }
+	.call-to-actionfull { padding: 40px 0px; }
+	.notsure-section-full .row {flex-direction: column-reverse;}
+	.notsure-section-full { padding: 50px 0px 10px; }
+	.call-to-action h4 { font-size: 30px; }
+	.call-to-action p { width: 100%; font-size: 18px; line-height: 26px;}
+	.pricing-aboutfull {margin: 0px 0px 60px;}
+	.pricing-table-full { margin: 0px 0px 30px; }
+	.about-text.pricing-about p { font-size: 15px; line-height: 24px; }
+	.about-text.pricing-about h2 { font-size: 20px; }
+	.price-plan-text h4 { font-size: 30px; }
+	.price-plan-text h3 { margin: 0px 0px 6px; font-size: 26px; }
+	.pricing-list li { font-size: 15px; }
+	.pricing-title { margin: 0px 0px 40px; }
+	.pricing-title h2 {font-size: 25px;}
+	.pricing-title h4 { font-size: 20px; }
+	.price-plan-text { width: 100%; }
+	.job-filters-top { display: none; margin-bottom: 20px;}
+	.job-search-wrapper { margin: 0px 0px 0px; }
+	.advanc-serch { display: block; }
+	.motivz-main-content.find-my-jobswrap {padding: 20px 0px 0px;}
+	.job-search-wrapper .job-search { padding: 10px 20px 0px; }
+	.mm-motivz-findjob .job-search label { width: auto; float: left; }
+	.mm-motivz-findjob .job-search label i { display: none; }
+	.mm-motivz-findjob .job-search label input[type="submit"] {width: auto; padding: 0px 15px; height: 44px;}
+	.swal-modal { width: calc(100% - 20px) !important; }
+	.userdshoard .dropdown-toggle { padding: 0px; }
+	.motivz-header-two .dropdown-toggle span { display: none; }
+	.satisfaction-textfull { padding: 50px 0px; }
+	.widget-50 { width: 100% !important; }
+	.revers { flex-direction: column-reverse; }
+	.actively-looking.career-development { padding: 30px 0px 0px }
+	.career-development form label { width: 100%; text-align: center; }
+	.motivz-jobdetails-wrapper { display: none; }
+	.description-full { padding: 60px 0px 20px; }
+	.mm-motivz-jobdetail-content .like-wrap {margin: -5px 140px 0px 0px}
+	.header-btn { width: 100%; background: #4d9a10; color: #fff; text-align: center; }
+	.mymotivz-nav > .navbar { padding: 12px; }
+	.navbar-nav > li { margin: 0px; }
+	.userdshoard { float: right; margin: 11px 0px 0px;}
+	.mm-motivz-jobdetail-content.details-tabswrapper { width: 100%; }
+	/*.navbar-toggler.collapsed ~ .collapse.navbar-collapse { display: block; }*/
+	.motivz-header-two .col-md-3,.motivz-header-two .col-md-9 { width: 50%; }
+	.motivz-header-one {display: none;}
+	.motivz-header-two {display: block !important;}
+	#add_range { margin: 0px 0px 15px !important; }
+	.motivz-details-tabs ul li span { width: 48px; height: 48px; line-height: 46px; font-size: 18px; }
+	.motivz-details-tabs ul li {margin: 0px -3px 0px 0px;}
+	.motivz-details-tabs ul li small,.motivz-details-tabs ul li:before { display: none; }
+	.finish-later { float: none;
+    margin: 15px auto 0 !important;
+    display: inherit; }
+	.app-wrap a { display: inline-block; float: none; }
+	.logo { width: 100%; padding: 12px 0px 0px; }
+	.find-jobs-wrapper.active-popup	.close-job-detail {
+		display: block;
+		position: absolute;
+	    right: -9px;
+	    top: -20px;
+	    font-size: 30px;
+	}
+	.motivz-jobdetails-wrapper.find-jobs-wrapper.active-popup {
+	 display: block;
+     position: fixed;
+     height: 91vh;
+     bottom: 0px;
+     max-height: 100%;
+     z-index: 99;
+     left: 0;
+	}
+	.motivz-jobdetails-wrapper .like-wrap {position: relative; top: unset; right: unset; margin: 0px 6px 0px 10px; }
+	.mm-motivz-jobdetail-content .apply-btn { position: absolute;top: 10px;right: 10px; }
+	.contact-sidecontent ul li { width: unset !important; float: none; display: inline-block; }
+	.motivz-jobdetails-wrapper .apply-btn { right: 0; top: 0; }
+	.motivz-table-responsives table { width: 1000px !important; }
+	.motivz-jobdetail-list { padding: 20px; }
+	.header-btn.header-btn2 { display: none; }
+	.dis-none { display: block !important; }
+	.motivz-header-one .col-md-3,.motivz-header-one .col-md-9 { width: 50%; }
+	.motivz-header-one { padding: 0px; }
+	.dis-block { display: none; }
+	.navbar-toggler { background: #fff; box-shadow: 0px 0px 10px rgba(0,0,0,0.2); }
+	.mymotivz-nav { float: right; padding: 4px 0px 0px; }
+	.navbar-collapse { position: absolute;right: 0px;top: 100%; z-index: 9; width: 250px;background: #fff;padding: 10px 20px;border-radius: 5px;box-shadow: 0px 0px 10px rgba(0,0,0,0.2); }
+	.mm-dropdown { display: none; opacity: 1; visibility: visible; position: relative; left: unset; top: unset; width: 100%; padding: 0px; background: transparent; box-shadow: none;}
+	.motivz-banner-text h1 { font-size: 33px; line-height: 38px; margin: 0px 0px 17px; }
+	.motivz-banner-text h1 br { display: none; }
+	.motivz-banner { height: auto; padding: 50px 0px 60px; }
+	.motivz-banner-text h1 span:before { display: none; }
+	.motivz-banner-text p { line-height: 24px; font-size: 16px; margin: 0px 0px 30px; }
+	.banner-form { padding: 15px 15px 0px; height: auto;}
+	.banner-form input[type="text"],.banner-form input[type="text"].scnd-input {border-right: none; width: 100%; border-bottom: 1px solid #ececec; }
+	.banner-form ul li { width: 100%; margin: 0px 0px 20px; }
+	.banner-form label { position: relative; top: 0px; }
+	.banner-form ul li > i { left: 0px; }
+	.banner-form input.scnd-input { padding-left: 30px; }
+	.banner-form input[type="submit"] { height: 50px; width: 100%; border-radius: 5px; padding: 0px;}
+	.banner-form label i { margin: 0 0 0 -70px; left: 50%; top: 15px; }
+	.description-title,.mm-description { width: 100%; padding: 0px; }
+	.description-title h2 { font-size: 28px; line-height: 36px; margin: 0px 0px 20px; }
+	.connect-text h2 { font-size: 29px; }
+	.mm-main-title p { width: 100%; font-size: 15px; }
+	.mm-main-title h2 { font-size: 24px; }
+	.connect-full { padding: 70px 0px 30px; }
+	.simple-btn { padding: 12px 45px; font-size: 16px; }
+	.mm-industries ul li { width: 50%; margin: 0px -4px 30px 0px; }
+	.mm-thriving { padding: 40px 15px 50px; width: 100%; }
+	.widget-links { padding-left: 0px !important; }
+	.motivz-footer-widget aside.col-md-3 { width: 50%; float: left; }
+	.widget-links ul li { font-size: 16px; line-height: 36px;}
+	.widget-info p { font-size: 17px; }
+	.footer-form form { padding-left: 0px; }
+	.footer-form form label { float: left; position: relative; }
+	.footer-form form input[type="text"] { padding-right: 15px; padding-left: 15px; margin: 0px 0px 10px;}
+	.footer-form h2 { margin: 0px 0px 13px; font-size: 27px; line-height: 1.3;}
+	.motivz-footer-one { padding: 40px 0px 30px; }
+	.mm-subheader { padding: 25px 0px; margin: 2px 0px 0px; }
+	.motivz-main-content { padding: 60px 0px 40px 0px;}
+	.mm-image-slide { width: 100%; }
+	.image-slide-full { display: none; }
+	.mm-approachfull { margin: 0px 0px 30px; }
+	.mm-core-value h2,.mm-approach h2 { margin: 0px 0px 17px; font-size: 30px; }
+	.about-text p { padding: 30px 0px 0px; font-size: 17px; line-height: 27px; }
+	.about-textfull { margin: 0px 0px 35px; }
+	.mm-approach ul li { font-size: 15px;padding-left: 35px; }
+	.mm-approach ul li:before { left: 0px; }
+	.caltoaction-wrap { display: inherit; }
+	.caltoaction-text { width: 100%; padding: 15px 15px 25px; }
+	.caltoaction-img { width: 100%; height: 150px; background-position: center; background-size: cover; }
+	.caltoaction-text h2 { font-size: 28px; margin: 0px 0px 25px; line-height: 40px; }
+	.caltoaction-text a { font-size: 16px; padding: 10px 24px; margin: 0px 10px 0px 0px;}
+	.mm-core-valuefull { margin: 0px 0px 20px; }
+	.mm-subheader h1 { line-height: 26px; font-size: 22px; }
+	.motivz-sticky .logo { padding: 7px 0px 0px; }
+	.motivz-sticky .mymotivz-nav { padding: 1px 0px 4px; }
+	.service-heading { font-size: 24px; padding: 0px 0px 0px 24px; line-height: 32px; }
+	.service-textfull { margin: 0px 0px 30px; }
+	.work-text h2 { font-size: 26px; line-height: 34px; margin: 0px 0px 20px;}
+	.mm-workfull { padding: 50px 0px 28px; }
+	.work-list { padding: 0px; }
+	.work-list ul li { padding: 0px 0px 0px 57px; font-size: 19px; line-height: 25px; margin: 0px 0px 25px;}
+	.talent-list-form.talent-list-formmargin { margin: 0px; }
+	.talent-list-form { width: 100%; }
+	.areas-expertise { width: 100%; }
+	.areas-expertise ul li { margin: 0px 0px 12px; font-size: 16px; padding: 0px 0px 0px 30px; line-height: 22px; }
+	.areas-expertise h2 { font-size: 28px; margin: 0px 0px 20px; }
+	.motivz-placement-text h2 { padding: 0px; margin: 0px 0px 30px; font-size: 26px; line-height: 30px;}
+	.motivz-placement-text h2:before { top: -11px; }
+	.motivz-liststyle { width: 100%; margin: 20px 0 30px; padding: 28px 0px 0px 20px; }
+	.motivz-liststyle i { position: absolute; left: 0px; font-size: 23px; width: 40px; height: 40px; margin: 0px; line-height: 40px; }
+	.motivz-liststyle ul li { padding: 0px 0px 0px 55px; position: relative; line-height: 22px; font-size: 17px; }
+	.satisfaction-text h2 { font-size: 30px; margin: 0px 0px 30px; line-height: 1.2; }
+	.satisfaction-textfull .row { flex-direction: column-reverse; }
+	.satisfaction-text p { margin: 0px 0px 0px; }
+	.temporary-staffing-text h2 br { display: none; }
+	.temporary-staffing-text { width: 100%; padding: 0px; margin-top: 0px; }
+	.temporary-staffing-text h2 { font-size: 24px; line-height: 30px; }
+	.motivz-placement-text h3 { margin: 0px 0px 22px; font-size: 28px; }
+	.free-hiring-list ul li { padding: 0px 0px 0px 61px; }
+	.free-hiring-list h2 { font-size: 22px; }
+	.free-hiring-list p { font-size: 16px; }
+	.free-hiringfull { margin: 0px 0px 20px; }
+	.motivz-placement-text h3 { font-size: 24px; line-height: 32px; }
+	.career-banner a { padding: 0 10px; font-size: 18px; line-height: 47px; }
+	.grid-resources,.grid-resources-sidebar { width: 100%; }
+	.list-resources .grid-resources-text figure ~ section { float: left; width: 100%; padding: 20px 0px 0px; }
+	.grid-resources-sidebar { padding-left: 0px; }
+	.pagination-wrap { margin: 0px 0px 30px; }
+	.side-search { margin: 0px; width: 100%; }
+	.side-search input[type="text"] { width: 100%; }
+	.sorting { margin: 10px 0px; }
+	.share-wrap { margin-top: -70px; }
+	.grid-resources-text section h2 { font-size: 20px; line-height: 24px; }
+	.createby li { font-size: 14px; }
+	.findjob-subheader h1 { font-size: 22px; line-height: 1.5; }
+	.findjob-subheader { padding: 25px 0px; margin: 2px 0px 0px;}
+	.motivz-list-option ul li { padding: 2px 9px; margin: 0px 0px 7px;}
+	.motivz-option-btn { margin-right: 4px; min-width: 95px; font-size: 12px; margin-bottom: 5px;}
+	.job-employer-dashboard-nav figcaption h2 { font-size: 18px; }
+	.password-change ul li { width: 100%; }
+	.job-search ul li { width: 100% !important; margin: 0px 0px 20px; }
+	.job-search label { position: relative; width: 100%;}
+	.job-search label input[type="submit"] { width: 100%; border-radius: 5px; padding: 0 0 0 20px; height: 55px; }
+	.job-search { padding: 20px; margin: 0px 0px 30px; }
+	.job-search label i { margin: 0 0 0 -60px; left: 50%; top: 18px; }
+	.job-search input[type="text"] { border-right: none; height: 45px; border-bottom: 1px solid #e8ebe6; }
+	.job-search ul li.location i { width: 10%; padding: 15px 0px 0px;}
+	.job-search ul li.location i ~ input[type="text"] { width: 90% }
+	.job-search ul li.location { width: 90% !important; }
+	.job-search ul li.details { width: 10% !important; }
+	.job-search ul li.details a { padding: 10px 0 0 6px; }
+	.featured-jobs ul li { padding: 0px 7px; }
+	.featured-jobslist-text figure ~ section { float: left; width: 100%; padding: 10px 0px 0px; }
+	.publish { right: auto; top: auto; left: 35px; bottom: 12px; }
+	.career-development { padding: 0px; }
+	.career-development h2 { margin: 0px 0px 23px; font-size: 24px; line-height: 30px; }
+	.career-development p { margin: 0px 0px 28px; font-size: 16px; }
+	.lazy-btn { padding: 10px 15px; font-size: 14px; margin: 6px 3px 0px 0px;}
+	.career-developmentfull { margin: 0px 0px 50px; }
+	.career-activelyfull { padding: 50px 0px 30px; }
+	.career-development form { width: 100%; }
+	.career-development-img.career-development-scnd { margin-bottom: 20px; }
+	.extra-space { height: 40px; }
+	.actively-looking.career-development h2 { font-size: 24px; }
+	.career-development-img.actively-looking-img { margin-top: 15px; }
+	.mm-motivz-jobdetail-content { padding: 15px; }
+	.contact-heading ul li { margin-bottom: 20px !important; width: 100%; }
+	.contact-grid-text { padding: 28px 0px 0px 80px; }
+	.motivz-contactfull { margin: 2px 0px 0px; }
+	.login-layout { width: 100%;  padding: 50px 17px 30px;}
+	.motivz-loginlayout { height: auto; padding-bottom: 70px; }
+	.login-layout h1 { font-size: 24px; }
+	.motivz-jobdetail-listthumb ~ figcaption { float: left; width: 100%; padding: 20px 0px 0px; margin: 0px; }
+	.apply-btn { position: relative; top: 0px; right: 0px; margin: 0px 0px 0px 5px; }
+	.job-filters-top > ul > li { margin: 0px 0px 10px; }
+	.side-featured-jobs { margin: 0px 0px 30px; }
+	.side-featured-jobs .featured-jobslist-text figure ~ section { float: none; width: unset; }
+	.foot-logo { width: 80%; }
+	.side-featured-jobs .publish { left: unset; bottom: unset; }
+	.motivz-jobdetail-listthumb ~ figcaption { margin-bottom: 20px; margin-left: 0px; padding-top: 20px; float: left; width: 100%; }
+	.contact-form-wrapper { background-image: none; padding: 0;}
+	.contact-form-wrapper h2 { font-size: 28px; }
+	.contact-sidecontent { margin: 0px 0px 0px; padding: 0px 0px 0px; }
+	.contact-sidecontent h3 { font-size: 30px;}
+	.contact-sidecontent p { font-size: 14px; }
+	.contact-information { width: 100%; height: auto; padding: 40px 25px; }
+	.contact-form-wrapper form { padding: 20px; }
+	.contact-form-wrapper form ul li { width: 100%; }
+	.social-x { text-align: left; }
+	.news input[type="text"] { width: 100%; }
+    .col-md-6 { padding: 0px 15px !important;}
+	.motivz-content-wrap { padding-top: 0px; }
+	.mm-main-title,.industries-full { margin: 0px 0px 40px; }
+	.motivz-footer-widget aside.col-md-4 .col-md-6 { width: 50%; float: left; }
+	.motivz-footer-widget aside.col-md-4:last-child .col-md-6 { width: 100%; float: left; }
+	.career-banner { margin: 2px 0px 0px; }
+	.motivz-job-list figure ~ .motivz-joblisting-text { margin: 15px 0px 0px 0px; float: left; width: 100%; }
+	.motivz-list-option ul li { padding: 2px 15px 9px 0; border-left: none; }
+	.motivz-job-userlist { margin-top: 0px; }
+	.motivz-option-btn { margin-right: 5px; min-width: 85px; margin-bottom: 5px; }
+	.motivz-list-option h2 > a { display: block; margin-bottom: 7px; }
+	.contact-form-wrapper { margin: 0px; }
+	.terms-of-use h2 { margin: 0px 0px 13px; font-size: 24px; line-height: 1.3; }
+	.navbar-nav .dropdown-menu { margin: 0px 0px 10px; }
+	.motivz-banner-text h2 { font-size: 24px; line-height: 1.2; margin: 0 0 20px; }
+	.employers-banner .motivz-banner-text h1 {font-size: 38px; line-height: 45px;}
+	.employers-banner .motivz-banner-text { margin: 0px; }
+	.motivz-banner.employers-banner { padding: 30px 0px 40px; }
+	.motivz-pricing-contentfull:before {display: none;}
+	.motivz-pricing-content section { width: 100%; }
+	.motivz-pricing-contentfull {margin: 50px 0px 20px; }
+	.motivz-pricing-content section { padding: 25px 20px 33px; }
+	.motivz-pricing-content h3 { font-size: 25px; }
+	.motivz-pricing-content p { line-height: 23px; font-size: 14px; }
+	.call-to-actions h4 br { display: none; }
+	.call-to-actions h4 { font-size: 25px; margin: 0px 0px 20px; }
+
+
+}
+
+/* Media 300Px Start */
+@media (max-width: 500px) {
+	.contact-form-wrapper ul li,
+	.mm-industries ul li,.job-filters-top > ul > li { width: 100%; }
+	.motivz-footer-widget aside.col-md-3:first-child { width: 100%; }
+}
+
+/* Media 940Px Start */
+@media screen and (min-width: 991px) and (max-width: 1250px) {
+	.pricing-list li { font-size: 15px; }
+	.price-plan-text { padding-right: 15px; width: 100%; }
+	.price-plan-text:before { right: 0px; }
+	.motivz-main-content { padding-top: 80px; }
+	.motivz-pricing-content p { font-size: 15px; }
+	.motivz-pricing-content h3 { font-size: 27px; }
+	.motivz-pricing-contentfull:before { display: none; }
+	.employers-banner .motivz-banner-text h1 {font-size: 60px;
+    line-height: 70px;}
+    .motivz-banner-text h2 { margin: 0px 0px 25px; font-size: 30px; }
+	.motivz-banner.employers-banner {height: auto; padding: 50px 0px 0px;}
+	.talent-list-form { padding: 15px; }
+	.talent-list-form ul li { width: 100% !important; }
+	.contact-grid-text span, .contact-grid-text a { font-size: 17px;}
+	.app-wrap a { display: inline-block; float: none; margin: 4px 0px !important; }
+	.motivz-header-one {display: none;}
+	.motivz-header-two {display: block !important;}
+	.motivz-header-two .col-md-3,.motivz-header-two .col-md-9 {flex: 0 0 100%; max-width: 100%;}
+	.mymotivz-nav {padding: 0px;}
+	.navbar { padding: 0px; display: inline-block;}
+	.navbar-nav > li > a,.dropdown > a {font-size: 13.8px; padding: 0px 11px !important;}
+	.logo { float: none; display: inline-block; }
+	.navbar-nav > li { margin: 0px; }
+	.motivz-header-two .col-md-3 { text-align: center; }
+	.career-banner,.motivz-contactfull { margin: 12px 0px 0px; }
+	.motivz-banner-text h1 br { display: none; }
+	.header-btn.header-btn2 { display: none; }
+	.dis-none { display: block !important; }
+	.mymotivz-nav { width: 100%; text-align: center; margin: 10px 0px 0px; }
+	.dropdown-toggle { margin: -4px 0px 0px; }
+	.findjob-subheader,.mm-subheader { padding: 50px 0px ; margin: 12px 0px 0px; }
+	.findjob-subheader h1,.mm-subheader h1 { font-size: 40px; }
+	.social-x a { width: 33px; height: 33px; }
+	.motivz-banner { background-size: 555px; padding: 130px 0px 0px; height: 620px; }
+	.connect-img figcaption { width: 100%; }
+	.career-development p { margin: 0px 0px 30px; }
+	.career-development h2 { font-size: 30px !important; }
+	.lazy-btn { margin: 0px 10px 0px 0px; padding: 15px 30px; }
+	.career-developmentfull { margin: 0px 0px 60px; }
+	.job-search ul li.location i { padding: 5px 15px 0px; }
+	.contact-form-wrapper .col-md-2,.contact-form-wrapper .col-md-10 {flex: 0 0 100%; max-width: 100%;}
+	.contact-information { width: 100%; height: auto; padding: 100px 53px; margin-top: 0px;}
+	.contact-form-wrapper form { padding: 40px 40px 10px; }
+	.login-layout { width: 70%; }
+
+}
+
+@media screen and (min-width: 1250px) and (max-width: 1640px) {
+	.employers-banner .container-fluid {padding: 0px 15px; max-width: 1250px;}
+	.employers-banner .motivz-banner-text h1 br { display: block; }
+	.navbar-expand-lg .navbar-nav .dropdown-menu { right: 0px; left: auto; }
+	.navbar-nav > li { margin: 0px 0px 0px 0px; }
+	.logo { width: 140px; }
+	.navbar-nav > li > a { font-size: 14px; }
+	.motivz-main-content { padding: 80px 0px 50px; }
+	.employers-banner.motivz-banner { background-size: 800px; }
+	.motivz-banner { background-size: 555px; padding: 130px 0px 0px; height: 620px; }
+	.motivz-banner .motivz-table-cell { vertical-align: middle; }
+	.login-layout h1 { font-size: 24px; }
+	.login-layout { padding: 35px 35px 15px; }
+	.login-layout label { font-size: 14px; }
+	.login-layout .form-control { height: 45px; }
+	.motivz-loginlayout { height: auto; padding: 78px 0px; }
+	.motivz-banner-text h1 br { display: none; }
+	.job-search ul li.location i ~ input[type="text"] { width: 75%; }
+	.mm-motivz-findjob .container { max-width: 1170px; }
+	.left-mymotivz { padding-left: 0px; }
+	.navbar { padding-left: 0px; padding-right: 0px; }
+	.header-btn,.motivz-sticky .header-btn { padding: 10px 20px; }
+}

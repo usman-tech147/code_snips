@@ -1,0 +1,102 @@
+/*	Media 768Px Start */
+@media (min-width: 768px) and (max-width: 990px) {
+	[class*="col-"] { padding: 0px 5px; }
+	.row { margin: 0px -5px; }
+	.app-main .app-main__inner { padding: 30px 10px 0px; }
+	.search-form li { width: 50%; margin: 0px 0px 10px;}
+	.popover, .dropdown-menu {
+		transform: translateY(70px) !important;
+    	top: 0 !important;
+	}
+	.job-search label input[type="submit"] { padding: 0 15px 0 50px; font-size: 16px; }
+	.job-search label i { left: 22px; }
+	.job-search ul li.details a { margin: 6px 0 0 -7px; padding: 0px; }
+	.job-search ul li.location i { padding: 6px 6px 0; }
+	.dash-boxes .col-md-3 { flex: 0 0 50%; max-width: 50%; }
+	.sidebar-mobile-open .app-sidebar .app-sidebar__inner ul.mm-show { padding: .5em 0 0 1rem; }
+	.motivz-job-userlist .like { margin: 6px 0 0 7px; display: inline-block; }
+
+	#add_range { margin: 6px 0px 0px !important; }
+	.app-header__menu { visibility: hidden; opacity: 0; }
+	.header-btn-lg::before{ display: none; }
+	.app-header .app-header__content .header-btn-lg { margin-left: 0px; }
+	.app-header .app-header__content { visibility: visible; opacity: 1; right: 15px; left: unset; width: auto; padding: 0px; background: transparent; box-shadow: none;}
+	.app-header__logo { padding-left: 0px; }
+	.app-header-left {display: none !important;}
+	.vertical-nav-menu li a.nav-button { display: block; }
+	.app-main { padding-bottom: 60px; }
+	.app-wrapper-footer {position: absolute; bottom: 0px; width: 100%; }
+}
+
+/* Media 420Px Start */
+@media (max-width: 767px) {
+	.widget-content-left > .btn-group > a > i { margin: 0px !important; }
+	.app-main { padding-bottom: 60px; }
+	.app-wrapper-footer {position: absolute; bottom: 0px; width: 100%; }
+	.vertical-nav-menu li a.nav-button { display: block; }
+	#add_range { margin: 6px 0px 0px !important; }
+	.app-header__menu { visibility: hidden; opacity: 0; }
+	.header-btn-lg::before{ display: none; }
+	.app-header .app-header__content .header-btn-lg { margin-left: 0px; }
+	.app-header .app-header__content { visibility: visible; opacity: 1; right: 15px; left: unset; width: auto; padding: 0px; background: transparent; box-shadow: none;}
+	.app-header__logo { padding-left: 0px; }
+	.app-header-left {display: none !important;}
+
+	.job-search ul li { width: 100% !important; margin: 0px 0px 20px; }
+	.job-search label { position: relative; width: 100%;}
+	.job-search label input[type="submit"] { width: 100%; border-radius: 5px; padding: 0 0 0 20px; height: 55px; }
+	.job-search { padding: 20px; margin: 0px 0px 30px; }
+	.job-search label i { margin: 0 0 0 -60px; left: 50%; top: 18px; }
+	.job-search input[type="text"] { border-right: none; height: 45px; border-bottom: 1px solid #e8ebe6; }
+	.job-search ul li.location i { width: 10%; padding: 15px 0px 0px;}
+	.job-search ul li.location i ~ input[type="text"] { width: 90% }
+	.job-search ul li.location { width: 90% !important; }
+	.job-search ul li.details { width: 10% !important; }
+	.job-search ul li.details a { padding: 10px 0 0 6px; }
+	.app-header__logo .logo-src { width: 100%; }
+	.table-responsive { overflow: auto; }
+	.table-responsive>.table { width: 1000px !important; }
+	.card-body form { width: 100%; float: left; }
+	.search-form li { width: 50%; margin: 0px 0px 10px;}
+	.search-form li:last-child button { margin: 0px; }
+	#example tr th,#example tr td { display: table-cell !important; }
+	.motivz-job-search ul li { width: 50%; }
+.popover, .dropdown-menu { transform: translateY(-170%) !important; }
+	.motivz-job-list figure ~ .motivz-joblisting-text { margin: 15px 0px 0px 0px; float: left; width: 100%; }
+	.motivz-list-option ul li { padding: 2px 7px 9px 0; border-left: none; }
+	.motivz-job-userlist { margin-top: 0px; }
+	.motivz-option-btn { margin-right: 5px; min-width: 85px; margin-bottom: 5px; }
+	.motivz-list-option h2 > a { display: block; margin-bottom: 7px; }
+	.sidebar-mobile-open .app-sidebar .app-sidebar__inner ul.mm-show { padding: .5em 0 0 1rem; }
+	.motivz-job-userlist .like { margin: 6px 0 0 7px; display: inline-block; }
+	.login-layout label { line-height: 1.2; }
+}
+
+/* Media 300Px Start */
+@media (max-width: 600px) {
+	.search-form li,.motivz-job-search ul li { width: 100%; }
+	.search-form.width-full li { width: 100% !important }
+	.card-body form { margin: 0px 0px 10px; }
+	.search-form select { width: 35%; }
+	.search-form li:first-child input { width: 65%; }
+}
+
+/* Media 940Px Start */
+@media screen and (min-width: 991px) and (max-width: 1200px) {
+	.job-search ul li.location i ~ input[type="text"] { width: 77%; }
+	.dash-boxes .col-md-3 { flex: 0 0 50%; max-width: 50%; }
+	.job-search ul li.location i { padding: 5px 17px 0px 15px; }
+	.job-search { padding: 20px 0px 20px 20px; }
+}
+
+@media screen and (min-width: 1201px) and (max-width: 1500px) {
+	.dash-box i {
+		width: 80px;
+	    height: 80px;
+	    line-height: 80px;
+	    font-size: 50px;
+	}
+	.dash-box h2 { font-size: 32px; }
+	.dash-boxes .card-body { padding: 12px; }
+	.dash-box span { font-size: 16px; }
+}

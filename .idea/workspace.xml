@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b3c2af5b-96ef-4861-b368-8359a0416b1d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/MymotivzController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/MymotivzController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/mymotivz.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/mymotivz.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,27 +64,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="1" />
+          <entry key="css" value="3" />
           <entry key="env" value="5" />
           <entry key="gitignore" value="1" />
           <entry key="groovy" value="2" />
-          <entry key="js" value="6" />
+          <entry key="js" value="7" />
           <entry key="json" value="3" />
           <entry key="log" value="2" />
-          <entry key="php" value="271" />
+          <entry key="php" value="283" />
+          <entry key="svg" value="1" />
           <entry key="ts" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key=".env file" value="5" />
-          <entry key="Blade" value="64" />
-          <entry key="CSS" value="1" />
+          <entry key="Blade" value="73" />
+          <entry key="CSS" value="3" />
           <entry key="JSON" value="3" />
-          <entry key="JavaScript" value="5" />
+          <entry key="JavaScript" value="6" />
           <entry key="Log" value="1" />
-          <entry key="PHP" value="207" />
+          <entry key="PHP" value="210" />
           <entry key="PLAIN_TEXT" value="2" />
+          <entry key="SVG" value="1" />
           <entry key="Scratch" value="3" />
           <entry key="TypeScript" value="1" />
         </counts>
@@ -92,16 +95,16 @@
         <counts>
           <entry key="env" value="40" />
           <entry key="json" value="1" />
-          <entry key="php" value="28103" />
+          <entry key="php" value="30754" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key=".env file" value="40" />
-          <entry key="Blade" value="12084" />
-          <entry key="HTML" value="13" />
+          <entry key="Blade" value="13172" />
+          <entry key="HTML" value="14" />
           <entry key="JSON" value="1" />
-          <entry key="PHP" value="16006" />
+          <entry key="PHP" value="17568" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -113,11 +116,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MymotivzController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="31" />
+              <folding>
+                <element signature="e#41#75#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/mymotivz/job_details.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="147" column="44" selection-start-line="147" selection-start-column="44" selection-end-line="147" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/mymotivz/job_qualification.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="86" column="91" selection-start-line="86" selection-start-column="69" selection-end-line="86" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/mymotivz.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="68" lean-forward="true" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+            <state relative-caret-position="198">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#7#44#0#PHP" expanded="true" />
               </folding>
@@ -140,6 +173,11 @@
       <find>$courses</find>
       <find>namespace App\Models\mymotiz\Admin;</find>
       <find>getAc</find>
+      <find>&lt;form</find>
+      <find>required_skills</find>
+      <find>href</find>
+      <find>&lt;ul</find>
+      <find>required_certification</find>
     </findStrings>
     <replaceStrings>
       <replace>$songs</replace>
@@ -153,16 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/routes/mymotivz.php" />
-        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminResume.php" />
-        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminCandidate.php" />
-        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminClient.php" />
-        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminContract.php" />
-        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminEducation.php" />
-        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminInterviewStage.php" />
-        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminInterviewStatus.php" />
-        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminJob.php" />
         <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminNote.php" />
         <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminPlacement.php" />
         <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminPlacementOld.php" />
@@ -203,7 +231,17 @@
         <option value="$PROJECT_DIR$/app/Models/mymotivz/favourite_job.php" />
         <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminUser.php" />
         <option value="$PROJECT_DIR$/app/Models/mymotivz/user_job.php" />
+        <option value="$PROJECT_DIR$/resources/views/mymotivz/employeer_post_job.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/mymotivz/employeer_job_qualification.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/mymotivz/employeer_job_benefits.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/mymotivz/view_job_details.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/mymotivz/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/mymotivz/job_benefits.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/routes/mymotivz.php" />
+        <option value="$PROJECT_DIR$/resources/views/mymotivz/job_qualification.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/MymotivzController.php" />
+        <option value="$PROJECT_DIR$/resources/views/mymotivz/job_details.blade.php" />
       </list>
     </option>
   </component>
@@ -341,7 +379,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/debug" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -363,7 +401,20 @@
             <path>
               <item name="c_snippets_part_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="c_snippets_part_1" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="c_snippets_part_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="c_snippets_part_1" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="c_snippets_part_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="c_snippets_part_1" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="mymotivz" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -372,23 +423,24 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="NewCli&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/app/Models/mymotivz/NewClient.php&#10;mym&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/routes/mymotivz.php&#10;Mymot&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/app/Http/Controllers/MymotivzController.php&#10;web&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/routes/web.php&#10;app.blade.php&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/layouts/app.blade.php&#10;app&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/layouts/app.blade.php&#10;bootstra&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/vendor/pagination/bootstrap-4.blade.php&#10;app.bl&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/layouts/app.blade.php&#10;app.&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/layouts/app.blade.php&#10;.env&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/.env&#10;app.php&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/config/app.php&#10;config.p&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/vendor/psy/psysh/.phan/config.php&#10;DateA&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/app/Http/Controllers/DateAndTimeController.php&#10;web.php&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/routes/web.php&#10;env&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/.env&#10;database.php&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/config/database.php&#10;config&#9;null&#9;null&#10;DateAndTimeC&#9;null&#9;null&#10;we&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/routes/web.php&#10;composer.js&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/composer.json" />
+    <property name="SearchEverywhereHistoryKey" value="mymotivz&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/routes/mymotivz.php&#10;NewCli&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/app/Models/mymotivz/NewClient.php&#10;mym&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/routes/mymotivz.php&#10;Mymot&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/app/Http/Controllers/MymotivzController.php&#10;web&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/routes/web.php&#10;app.blade.php&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/layouts/app.blade.php&#10;app&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/layouts/app.blade.php&#10;bootstra&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/vendor/pagination/bootstrap-4.blade.php&#10;app.bl&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/layouts/app.blade.php&#10;app.&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/layouts/app.blade.php&#10;.env&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/.env&#10;app.php&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/config/app.php&#10;config.p&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/vendor/psy/psysh/.phan/config.php&#10;DateA&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/app/Http/Controllers/DateAndTimeController.php&#10;web.php&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/routes/web.php&#10;env&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/.env&#10;database.php&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/config/database.php&#10;config&#9;null&#9;null&#10;DateAndTimeC&#9;null&#9;null&#10;we&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/routes/web.php&#10;composer.js&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/composer.json" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/softenica/mymotivz-new" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Users\User\AppData\Local\JetBrains\Toolbox\apps\PhpStorm\ch-0\182.4505.42\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\laravel 8\c_snippets_part_1\app" />
-      <recent name="D:\laravel 8\c_snippets_part_1\app\Models\mymotivz" />
-      <recent name="D:\laravel 8\c_snippets_part_1\public\images" />
-      <recent name="D:\laravel 8\c_snippets_part_1\public" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\laravel 8\c_snippets_part_1\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\laravel 8\c_snippets_part_1\public" />
+      <recent name="D:\laravel 8\c_snippets_part_1\public\css" />
+      <recent name="D:\laravel 8\c_snippets_part_1\resources\views\mymotivz" />
+      <recent name="D:\laravel 8\c_snippets_part_1\app" />
+      <recent name="D:\laravel 8\c_snippets_part_1\app\Models\mymotivz" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -442,18 +494,18 @@
       <workItem from="1629905939616" duration="609000" />
       <workItem from="1631642578544" duration="1651000" />
       <workItem from="1632081143512" duration="4544000" />
-      <workItem from="1633281452215" duration="1272000" />
+      <workItem from="1633281452215" duration="10376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="179700000" />
+    <option name="totallyTimeSpent" value="188804000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20201342" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2033557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -468,7 +520,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" weight="0.28429985" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49932885" visible="true" weight="0.28429985" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49932885" visible="true" weight="0.3606789" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -476,7 +528,7 @@
       <window_info anchor="right" id="Database" order="3" weight="0.3295302" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20268457" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2033557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -491,12 +543,12 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" weight="0.28429985" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49932885" visible="true" weight="0.24328147" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49932885" visible="true" weight="0.261669" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3295302" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,76 +558,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/todo_action.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/todo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Status.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/State.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/schedule_interview.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Resume.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/recruitment_service.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/receiver_email.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Privileges.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/placement.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -838,16 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MymotivzController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#40#74#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/user_job.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -858,13 +830,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/mymotivz.php">
+    <entry file="file://$PROJECT_DIR$/public/user/css/file-input/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/bootstrap-tagsinput.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/new-panel/user-panel/assets/fonts/AD.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/easy-number-separator.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/mymotivz/review_job.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/mymotivz/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="68" lean-forward="true" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+          <folding>
+            <element signature="e#118#139#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/mymotivz/job_benefits.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="136" column="5" lean-forward="true" selection-start-line="136" selection-start-column="5" selection-end-line="136" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MymotivzController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="e#41#75#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/mymotivz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#7#44#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/mymotivz/job_qualification.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="86" column="91" selection-start-line="86" selection-start-column="69" selection-end-line="86" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/mymotivz/job_details.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="147" column="44" selection-start-line="147" selection-start-column="44" selection-end-line="147" selection-end-column="44" />
         </state>
       </provider>
     </entry>
