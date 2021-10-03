@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3c2af5b-96ef-4861-b368-8359a0416b1d" name="Default Changelist" comment="" />
+    <list default="true" id="b3c2af5b-96ef-4861-b368-8359a0416b1d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,14 +33,14 @@
     <session id="-1899382028">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="27" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.40" value="1" />
@@ -54,47 +58,50 @@
           <entry key="project.open.time.77" value="1" />
           <entry key="project.open.time.81" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="28" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="env" value="3" />
+          <entry key="env" value="5" />
+          <entry key="gitignore" value="1" />
           <entry key="groovy" value="2" />
           <entry key="js" value="6" />
-          <entry key="json" value="2" />
+          <entry key="json" value="3" />
           <entry key="log" value="2" />
-          <entry key="php" value="121" />
+          <entry key="php" value="271" />
           <entry key="ts" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key=".env file" value="3" />
+          <entry key=".env file" value="5" />
           <entry key="Blade" value="64" />
           <entry key="CSS" value="1" />
-          <entry key="JSON" value="2" />
+          <entry key="JSON" value="3" />
           <entry key="JavaScript" value="5" />
           <entry key="Log" value="1" />
-          <entry key="PHP" value="57" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PHP" value="207" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="Scratch" value="3" />
           <entry key="TypeScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="env" value="27" />
-          <entry key="php" value="27056" />
+          <entry key="env" value="40" />
+          <entry key="json" value="1" />
+          <entry key="php" value="28103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key=".env file" value="27" />
+          <entry key=".env file" value="40" />
           <entry key="Blade" value="12084" />
           <entry key="HTML" value="13" />
-          <entry key="PHP" value="14959" />
+          <entry key="JSON" value="1" />
+          <entry key="PHP" value="16006" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -106,53 +113,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/music.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="e#7#48#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MusicPieChartController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-              <folding>
-                <element signature="e#40#61#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/map.blade.php">
+        <entry file="file://$PROJECT_DIR$/routes/mymotivz.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/web.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="40" column="104" selection-start-line="40" selection-start-column="104" selection-end-line="40" selection-end-column="104" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MapController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            <state relative-caret-position="72">
+              <caret line="4" column="68" lean-forward="true" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+              <folding>
+                <element signature="e#7#44#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -170,6 +138,8 @@
       <find>Previous</find>
       <find>to</find>
       <find>$courses</find>
+      <find>namespace App\Models\mymotiz\Admin;</find>
+      <find>getAc</find>
     </findStrings>
     <replaceStrings>
       <replace>$songs</replace>
@@ -177,48 +147,63 @@
       <replace>$song</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
-        <option value="$PROJECT_DIR$/resources/js/bootstrap.js" />
-        <option value="$PROJECT_DIR$/resources/views/files/single_image.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/CodeSnippetsController.php" />
-        <option value="$PROJECT_DIR$/resources/views/simple_form_validation.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/files/date_and_time.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/files/display_date_and_time.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/calTemplate.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/calander.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/DateAndTimeController.php" />
-        <option value="$PROJECT_DIR$/config/app.php" />
-        <option value="$PROJECT_DIR$/.env" />
-        <option value="$PROJECT_DIR$/app/Models/Band.php" />
-        <option value="$PROJECT_DIR$/resources/views/datatable.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/DatatableController.php" />
-        <option value="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
-        <option value="$PROJECT_DIR$/app/Models/Album.php" />
-        <option value="$PROJECT_DIR$/resources/views/vendor/pagination/custom.blade.php" />
-        <option value="$PROJECT_DIR$/database/migrations/2021_07_20_221924_add_date_to_songs_table.php" />
-        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
-        <option value="$PROJECT_DIR$/database/factories/SongFactory.php" />
-        <option value="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" />
-        <option value="$PROJECT_DIR$/config/database.php" />
-        <option value="$PROJECT_DIR$/resources/views/vendor/pagination/bootstrap-4.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/music/partials/songs_ajax_template.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/music/songs_datetable.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/music/songs_datatable.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/music/music_pie_chart.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/music/songs.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/MusicDatatableController.php" />
-        <option value="$PROJECT_DIR$/app/Models/Song.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/MusicController.php" />
-        <option value="$PROJECT_DIR$/routes/music.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/MusicPieChartController.php" />
-        <option value="$PROJECT_DIR$/resources/views/music/songs_pie_chart.blade.php" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/MapController.php" />
-        <option value="$PROJECT_DIR$/resources/views/map.blade.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/routes/mymotivz.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminResume.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminCandidate.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminClient.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminContract.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminEducation.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminInterviewStage.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminInterviewStatus.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminJob.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminNote.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminPlacement.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminPlacementOld.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminPrivileges.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminReceiverEmail.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminScheduleInterview.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminStatus.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminTodo.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminTodoAction.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Applied_Jobs.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Candidate.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/candidate_resume.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/career_job_notify.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Client.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/contract.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Country.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Education.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Find_Talent.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Industry.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/InterviewStage.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/InterviewStatus.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Job.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/JobNotify.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/NewCandidate.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/NewClient.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Note.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/placement.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Privileges.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/receiver_email.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/recruitment_service.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Resume.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/schedule_interview.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/State.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Status.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/todo.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/todo_action.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/User.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/favourite_job.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminUser.php" />
+        <option value="$PROJECT_DIR$/app/Models/mymotivz/user_job.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/MymotivzController.php" />
       </list>
     </option>
   </component>
@@ -356,16 +341,18 @@
       <path value="$PROJECT_DIR$/vendor/symfony/debug" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -376,30 +363,16 @@
             <path>
               <item name="c_snippets_part_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="c_snippets_part_1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c_snippets_part_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c_snippets_part_1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c_snippets_part_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c_snippets_part_1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="web&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/routes/web.php&#10;app.blade.php&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/layouts/app.blade.php&#10;app&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/layouts/app.blade.php&#10;bootstra&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/vendor/pagination/bootstrap-4.blade.php&#10;app.bl&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/layouts/app.blade.php&#10;app.&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/layouts/app.blade.php&#10;.env&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/.env&#10;app.php&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/config/app.php&#10;config.p&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/vendor/psy/psysh/.phan/config.php&#10;DateA&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/app/Http/Controllers/DateAndTimeController.php&#10;web.php&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/routes/web.php&#10;env&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/.env&#10;database.php&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/config/database.php&#10;config&#9;null&#9;null&#10;DateAndTimeC&#9;null&#9;null&#10;we&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/routes/web.php&#10;composer.js&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/composer.json" />
+    <property name="SearchEverywhereHistoryKey" value="NewCli&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/app/Models/mymotivz/NewClient.php&#10;mym&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/routes/mymotivz.php&#10;Mymot&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/app/Http/Controllers/MymotivzController.php&#10;web&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/routes/web.php&#10;app.blade.php&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/layouts/app.blade.php&#10;app&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/layouts/app.blade.php&#10;bootstra&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/vendor/pagination/bootstrap-4.blade.php&#10;app.bl&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/layouts/app.blade.php&#10;app.&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/resources/views/layouts/app.blade.php&#10;.env&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/.env&#10;app.php&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/config/app.php&#10;config.p&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/vendor/psy/psysh/.phan/config.php&#10;DateA&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/app/Http/Controllers/DateAndTimeController.php&#10;web.php&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/routes/web.php&#10;env&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/.env&#10;database.php&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/config/database.php&#10;config&#9;null&#9;null&#10;DateAndTimeC&#9;null&#9;null&#10;we&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/routes/web.php&#10;composer.js&#9;FILE&#9;file://D:/laravel 8/c_snippets_part_1/composer.json" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -408,11 +381,13 @@
     <property name="ts.external.directory.path" value="C:\Users\User\AppData\Local\JetBrains\Toolbox\apps\PhpStorm\ch-0\182.4505.42\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\laravel 8\c_snippets_part_1\app" />
+      <recent name="D:\laravel 8\c_snippets_part_1\app\Models\mymotivz" />
+      <recent name="D:\laravel 8\c_snippets_part_1\public\images" />
       <recent name="D:\laravel 8\c_snippets_part_1\public" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\laravel 8\c_snippets_part_1\public\images" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\laravel 8\c_snippets_part_1\public" />
     </key>
   </component>
@@ -465,18 +440,20 @@
       <workItem from="1629047123709" duration="3143000" />
       <workItem from="1629111383196" duration="583000" />
       <workItem from="1629905939616" duration="609000" />
-      <workItem from="1631642578544" duration="586000" />
+      <workItem from="1631642578544" duration="1651000" />
+      <workItem from="1632081143512" duration="4544000" />
+      <workItem from="1633281452215" duration="1272000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172819000" />
+    <option name="totallyTimeSpent" value="179700000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17785235" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20201342" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -491,7 +468,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" weight="0.28429985" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49932885" visible="true" weight="0.35219237" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49932885" visible="true" weight="0.28429985" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -529,343 +506,365 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/composer.json">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/app.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/js/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/jquery-validation/dist/localization/methods_de.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/jquery-validation/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CodeSnippetsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="156" column="5" selection-start-line="156" selection-start-column="5" selection-end-line="156" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/@types/eslint/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="214" column="14" selection-start-line="214" selection-start-column="14" selection-end-line="214" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/files/single_image.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
-          <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/psy/psysh/.phan/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DateAndTimeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="81" column="27" selection-start-line="81" selection-start-column="27" selection-end-line="81" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/DataTables-1.10.25/js/dataTables.bulma.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="59" column="36" selection-start-line="59" selection-start-column="36" selection-end-line="59" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/simple_form_validation.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1989">
-          <caret line="168" column="39" lean-forward="true" selection-start-line="168" selection-start-column="39" selection-end-line="168" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/datatable/datatable.blade.php" />
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DatatableController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Providers/RouteServiceProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/vendor/pagination/custom.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/todo_action.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/storage/logs/laravel.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="-360849" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/vendor/pagination/default.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/todo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2021_07_20_221924_add_date_to_songs_table.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Status.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/State.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/factories/UserFactory.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/schedule_interview.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="27" />
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/seeders/FakeSongsSeeder.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Resume.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/factories/SongFactory.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/recruitment_service.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="25" column="61" lean-forward="true" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/seeders/DatabaseSeeder.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/receiver_email.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Privileges.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/vendor/pagination/bootstrap-4.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/placement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Note.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/JobNotify.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Job.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/InterviewStatus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/InterviewStage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Industry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Find_Talent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/NewCandidate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/favourite_job.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Education.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Country.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/contract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/career_job_notify.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/candidate_resume.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="31" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="31" />
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/music/partials/songs_ajax_template.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Candidate.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="71" lean-forward="true" selection-start-line="68" selection-start-column="10" selection-end-line="71" />
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/files/display_date_and_time.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Applied_Jobs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/files/date_and_time.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminCandidate.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-88">
-          <caret line="29" column="65" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+        <state relative-caret-position="126">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Album.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminClient.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        <state relative-caret-position="36">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Band.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminContract.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="26" />
+        <state relative-caret-position="36">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/music/songs_datatable.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminEducation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="113" column="21" selection-start-line="113" selection-start-column="21" selection-end-line="113" selection-end-column="21" />
+        <state relative-caret-position="36">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MusicDatatableController.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminInterviewStage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="42" column="82" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="82" />
+        <state relative-caret-position="36">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Song.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminInterviewStatus.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="36">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/calTemplate.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminJob.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="36">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/datatable.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminNote.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-325">
-          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        <state relative-caret-position="36">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/calander.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminStatus.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="128" column="16" lean-forward="true" selection-start-line="128" selection-start-column="16" selection-end-line="130" selection-end-column="35" />
+        <state relative-caret-position="36">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/music/songs.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminUser.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="38" column="57" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
+        <state relative-caret-position="54">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminTodoAction.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1835">
-          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+        <state relative-caret-position="36">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MusicController.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminTodo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="40" column="72" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="72" />
+        <state relative-caret-position="36">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/music/songs_pie_chart.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminScheduleInterview.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="11" selection-end-line="50" />
+        <state relative-caret-position="36">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/music.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminResume.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminReceiverEmail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminPrivileges.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminPlacementOld.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/Admin/AdminPlacement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/NewClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MymotivzController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
-            <element signature="e#7#48#0#PHP" expanded="true" />
+            <element signature="e#40#74#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MusicPieChartController.php">
+    <entry file="file://$PROJECT_DIR$/app/Models/mymotivz/user_job.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        <state relative-caret-position="18">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
           <folding>
-            <element signature="e#40#61#0#PHP" expanded="true" />
+            <element signature="e#39#79#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
+    <entry file="file://$PROJECT_DIR$/routes/mymotivz.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="40" column="104" selection-start-line="40" selection-start-column="104" selection-end-line="40" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MapController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/map.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="72">
+          <caret line="4" column="68" lean-forward="true" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+          <folding>
+            <element signature="e#7#44#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
